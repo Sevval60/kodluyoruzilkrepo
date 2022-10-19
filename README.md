@@ -1,2 +1,2 @@
 # Kodluyoruz İlk Repo
-Bu repo [kodluyoruz](//www.kodluyoruz.com//)
+Bu repo [kodluyoruz](//www.kodluyoruz.org//)
